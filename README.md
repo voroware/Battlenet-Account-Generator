@@ -22,4 +22,4 @@
 
 ## To Purchase:
 
-@voromade on Discord & Telegram
+Telegram: @voromade
