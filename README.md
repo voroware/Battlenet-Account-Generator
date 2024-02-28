@@ -32,3 +32,9 @@ Telegram: @voromade or Discord: @voromade
 CLI is being migrated into the VORO Web Platform, to gain early access reach out on Telegram or Discord:
 ```
 <img src="https://media.discordapp.net/attachments/1187784554338058323/1212501632969998366/image.png?ex=65f21124&is=65df9c24&hm=caec57e27b8378238ea3680284670ba94bcf44d4db3a57cb47e756de9b2b2252&=&format=webp&quality=lossless&width=687&height=311" alt="Voro Services" />
+
+
+**Jan 23rd, 2024**
+```js
+CLI sales are paused and will be migrated to web platform, which will allow you to generate from anywhere!
+```
