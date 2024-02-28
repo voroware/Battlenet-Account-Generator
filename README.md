@@ -22,7 +22,11 @@
 
 ## To Purchase:
 
-Telegram: @voromade or Discord: @voromade
+Telegram: [**@voromade**](https://t.me/voromade)
+
+or
+
+Discord: **@voromade**
 
 
 ## Updates:
