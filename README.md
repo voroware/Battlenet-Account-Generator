@@ -35,7 +35,7 @@ Discord: **@voromade**
 ```js
 CLI is being migrated into the VORO Web Platform, to gain early access reach out on Telegram or Discord:
 ```
-<img src="https://media.discordapp.net/attachments/1187784554338058323/1212501632969998366/image.png?ex=65f21124&is=65df9c24&hm=caec57e27b8378238ea3680284670ba94bcf44d4db3a57cb47e756de9b2b2252&=&format=webp&quality=lossless&width=687&height=311" alt="Voro Services" />
+<img src="https://media.discordapp.net/attachments/1187784554338058323/1215077783919919145/image.png?ex=65fb705e&is=65e8fb5e&hm=64d35210c60a87729627cfb887bb156af5f127b29e80376dffc6683f03f11449&=&format=webp&quality=lossless&width=687&height=308" alt="Voro Services" />
 
 
 **Jan 23rd, 2024:**
