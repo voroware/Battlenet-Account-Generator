@@ -30,15 +30,15 @@ Discord: **@voromade**
 
 
 ## Updates:
+
+**Jan 23rd, 2024:**
+```js
+CLI sales are paused and will be migrated to web platform, which will allow you to generate from anywhere!
+```
+
 **Feb. 28th, 2024:**
 
 ```js
 CLI is being migrated into the VORO Web Platform, to gain early access reach out on Telegram or Discord:
 ```
 <img src="./screenshot v2.png" alt="Voro Services" />
-
-
-**Jan 23rd, 2024:**
-```js
-CLI sales are paused and will be migrated to web platform, which will allow you to generate from anywhere!
-```
