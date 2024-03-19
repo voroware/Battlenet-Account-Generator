@@ -5,7 +5,7 @@
 <h1 align="center">🔵 VoroNET - Battle.net Account Generator 🔵</h1>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1187784554338058323/1200589588159279204/image.png?ex=65eba52f&is=65d9302f&hm=a2f02967959afa70f2a25759d1981c6b6e1d04978ebe1e9e1ad61fa770dd4760&=&format=webp&quality=lossless&width=1226&height=653" alt="Voro NET">
+  <img src="./screenshot.png" alt="Voro NET">
 </p>
 
 ## Features:
