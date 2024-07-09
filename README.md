@@ -22,11 +22,11 @@
 
 ## To Purchase:
 
-Telegram: [**@voromade**](https://t.me/voromade)
+Telegram: [**@voroware**](https://t.me/voroware)
 
 or
 
-Discord: **@voromade**
+Discord: **@voroware**
 
 
 ## Updates:
